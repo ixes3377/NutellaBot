@@ -168,6 +168,10 @@ namespace DiscordBot.Commands
                         await ReplyAsync("Friendship is magic!");
                         await ReplyAsync("https://www.youtube.com/watch?v=ZcBNxuKZyN4");
                     }
+                    case 5: {
+                        await ReplyAsync("This ones for you solid");
+                        await ReplyAsync("https://www.youtube.com/watch?v=ZcBNxuKZyN4");
+                    }
                     break;
             }
         }
